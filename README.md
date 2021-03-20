@@ -15,7 +15,7 @@
 <br>
 🎓 Hello :D I am HABEEN NAM<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW MEDIA SOFTWARE DEPARTMENT.<br>
-✏ Currently, I am studying languages such as Html5, css3, js, node.js, spring, c++, c#, c, java, etc!<br>
+✏ Currently, I am studying languages such as php, react, node.js, django  etc!<br>
 🌱 I want to be a web full stack developer like 'sensor lamp'!<br>
 😊 I usually do my best in a set location, but I wanted to be a developer who would help<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when someone needed me, so I expressed myself like a sensor lamp.<br>
