@@ -10,7 +10,7 @@
 🔥 제가 개발 관련 공부 및 프로젝트를 진행하며 가장 중요시 생각하는 5가지는 {맡은 업무 또는 해야하는 공부에 관한<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;책임, 목표 달성, 협동을 통한 성장, 지식공유, 의지}입니다.<br>
 👇자세한건 아래 사이트를 통해 확인해 주세요.<br>
-💻https://friendly-elion-5e7c55.netlify.app<br>
+💻https://namhabeen.github.io/resume_online/<br>
 ❤ READ ME를 읽어주셔서 감사합니다.<br>
 <br>
 <br>
@@ -23,7 +23,7 @@
 🔥 The five most important things that I think about while studying and projects related to development are<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{responsibility, achievement of goals, growth through collaboration, sharing, and will}.<br>
 👇Plz check out the details on the page below!<br>
-💻https://friendly-elion-5e7c55.netlify.app<br>
+💻https://namhabeen.github.io/resume_online/<br>
 ❤ Thnx to read my 'README'<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
