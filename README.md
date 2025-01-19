@@ -2,7 +2,7 @@
 **Namhabeen/Namhabeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
 
-🎓 안녕하세요 :D 남하빈입니다. <br>
+🎓 안녕하세요 :D <br>
 🌱 저는 '센서등'과 같은 사람이 되고 싶습니다! <br>
 😊 평소에는 정해진 위치에서 최선을 다해 묵묵히 할 일을 해 나아가지만, 누군가 필요로 할 때에 도움이 되는 사람이<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;되고 싶기에 '센서등'에 빗대어 표현했습니다.<br>
